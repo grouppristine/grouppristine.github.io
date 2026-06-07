@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.grouppristine.com
+Sitemap: https://www.grouppristine.com/sitemap.xml
